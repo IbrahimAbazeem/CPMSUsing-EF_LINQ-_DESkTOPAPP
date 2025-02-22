@@ -87,17 +87,6 @@ CPMS/
 ```
 
 ---
-
-## 📸 Screenshots
-
-![Project Management Interface](/screenshots/project_management.png)  
-*Project Management Interface*
-
-![Search Functionality](/screenshots/search_functionality.png)  
-*Search Functionality*
-
----
-
 ## 🔧 Future Enhancements
 
 - **User Authentication:** Add login and user roles for enhanced security.
@@ -134,13 +123,8 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 For questions or feedback, feel free to reach out:  
 **Ibrahim Abazeem**  
-📧 [Email](mailto:your-email@example.com)  
+📧 [Email](ibrahimahmed221996@gmail.com)  
 🌐 [GitHub Profile](https://github.com/IbrahimAbazeem)
 
 ---
 
-Happy coding! 🚀
-
----
-
-You can now copy this content into your `README.md` file in your GitHub repository. Make sure to replace placeholders (like screenshots, email, etc.) with actual data. Let me know if you need further assistance! 😊
